@@ -6,7 +6,7 @@ import Toast from 'react-native-toast-message'
 export default function Index() {
 	return (
 		<View
-			className=" w-screen h-screen bg-[#25292e]"
+			className=" w-screen h-screen bg-[#4c6a8e]"
 			style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}
 		>
 			<Button
